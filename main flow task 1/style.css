@@ -1,0 +1,78 @@
+*{
+	margin: auto;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+}
+body{
+	background-image: url('background.png');
+	height: 100vh;
+	width: 100vw;
+	position: relative;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.form{
+	text-align: center;
+	padding: 200px;
+	color: white;
+	font-size: 30px;
+}
+nav .logo{
+	color: white;
+	font-size: 33px;
+	font-weight: bold;
+	line-height: 70px;
+	padding-left: 110px;
+}
+nav{
+	height: 70px;
+	background: #063247;
+	box-shadow: 0 3px 15px rgba(0, 0 ,0z,.4);
+}
+nav ol{
+	float: right;
+	margin-right: 30px;
+}
+
+nav ol li{
+	display: inline-block;
+}
+nav ol li a{
+	color: white;
+	display: block;
+	padding: 0 15px;
+	line-height: 70px;
+	font-size: 20px;
+	background: #063247;
+}
+nav ol li a:hover,
+nav ol li a.active{
+	color: #23dbdb;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
